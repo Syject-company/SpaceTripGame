@@ -1,0 +1,6 @@
+framework module Pods_SpaceTrip {
+  umbrella header "Pods-SpaceTrip-umbrella.h"
+
+  export *
+  module * { export * }
+}
